@@ -7,3 +7,4 @@ This Repository contains my solutions to March LeetCoding Challenge 2022 problem
 * Checkout my LeetCode profile at https://leetcode.com/michaelehab/
 
 ## Solutions
+1. <a href="https://github.com/michaelehab/LeetCode-March-Challenge-2022/blob/main/338.Counting-Bits.cpp">Counting Bits</a>
