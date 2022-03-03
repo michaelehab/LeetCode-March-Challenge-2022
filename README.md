@@ -8,3 +8,5 @@ This Repository contains my solutions to March LeetCoding Challenge 2022 problem
 
 ## Solutions
 1. <a href="https://github.com/michaelehab/LeetCode-March-Challenge-2022/blob/main/338.Counting-Bits.cpp">Counting Bits</a>
+2. <a href="https://github.com/michaelehab/LeetCode-March-Challenge-2022/blob/main/392.Is-Subsequence.cpp">Is Subsequence</a>
+3. <a href="https://github.com/michaelehab/LeetCode-March-Challenge-2022/blob/main/413.Arithmetic-Slices.cpp">Arithmetic Slices</a>
