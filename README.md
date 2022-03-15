@@ -21,3 +21,4 @@ This Repository contains my solutions to March LeetCoding Challenge 2022 problem
 12. <a href="./138.Copy-List-with-Random-Pointer.cpp">Copy List with Random Pointer</a>
 13. <a href="./20.Valid-Parentheses.cpp">Valid Parentheses</a>
 14. <a href="./71.Simplify-Path.cpp">Simplify Path</a>
+15. <a href="1249.Minimum-Remove-to-Make-Valid-Parentheses.cpp">Minimum Remove to Make Valid Parentheses</a>
