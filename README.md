@@ -22,3 +22,5 @@ This Repository contains my solutions to March LeetCoding Challenge 2022 problem
 13. <a href="./20.Valid-Parentheses.cpp">Valid Parentheses</a>
 14. <a href="./71.Simplify-Path.cpp">Simplify Path</a>
 15. <a href="1249.Minimum-Remove-to-Make-Valid-Parentheses.cpp">Minimum Remove to Make Valid Parentheses</a>
+16. <a href="946.Validate-Stack-Sequences.cpp">Validate Stack Sequences</a>
+17. <a href="856.Score-of-Parentheses.cpp">Score of Parentheses</a>
