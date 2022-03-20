@@ -26,3 +26,4 @@ This Repository contains my solutions to March LeetCoding Challenge 2022 problem
 17. <a href="./856.Score-of-Parentheses.cpp">Score of Parentheses</a>
 18. <a href="./316.Remove-Duplicate-Letters.cpp">Remove Duplicate Letters</a>
 19. <a href="./895.Maximum-Frequency-Stack.cpp">Maximum Frequency Stack</a>
+20. <a href="./1007.Minimum-Domino-Rotations-For-Equal-Row.cpp">Minimum Domino Rotations For Equal Row</a>
