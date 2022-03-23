@@ -27,4 +27,5 @@ This Repository contains my solutions to March LeetCoding Challenge 2022 problem
 18. <a href="./316.Remove-Duplicate-Letters.cpp">Remove Duplicate Letters</a>
 19. <a href="./895.Maximum-Frequency-Stack.cpp">Maximum Frequency Stack</a>
 20. <a href="./1007.Minimum-Domino-Rotations-For-Equal-Row.cpp">Minimum Domino Rotations For Equal Row</a>
-21. <a href="./1663.Smallest-String-With-A-Given-Numeric-Value.cpp">Smallest String With A Given Numeric Value</a>
+21. <a href="./763.Partition-Labels.cpp">Partition Labels</a>
+22. <a href="./1663.Smallest-String-With-A-Given-Numeric-Value.cpp">Smallest String With A Given Numeric Value</a>
