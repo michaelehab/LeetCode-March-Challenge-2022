@@ -30,3 +30,5 @@ This Repository contains my solutions to March LeetCoding Challenge 2022 problem
 21. <a href="./763.Partition-Labels.cpp">Partition Labels</a>
 22. <a href="./1663.Smallest-String-With-A-Given-Numeric-Value.cpp">Smallest String With A Given Numeric Value</a>
 23. <a href="./991.Broken-Calculator.cpp">Broken Calculator</a>
+24. <a href="./881.Boats-to-Save-People.cpp">Boats to Save People</a>
+25. <a href="./1029.Two-City-Scheduling.cpp">Two City Scheduling</a>
