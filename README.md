@@ -32,3 +32,4 @@ This Repository contains my solutions to March LeetCoding Challenge 2022 problem
 23. <a href="./991.Broken-Calculator.cpp">Broken Calculator</a>
 24. <a href="./881.Boats-to-Save-People.cpp">Boats to Save People</a>
 25. <a href="./1029.Two-City-Scheduling.cpp">Two City Scheduling</a>
+26. <a href="./704.Binary-Search.cpp">Binary Search</a>
