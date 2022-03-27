@@ -33,3 +33,4 @@ This Repository contains my solutions to March LeetCoding Challenge 2022 problem
 24. <a href="./881.Boats-to-Save-People.cpp">Boats to Save People</a>
 25. <a href="./1029.Two-City-Scheduling.cpp">Two City Scheduling</a>
 26. <a href="./704.Binary-Search.cpp">Binary Search</a>
+27. <a href="./1337.The-K-Weakest-Rows-in-a-Matrix.cpp">The K Weakest Rows in a Matrix</a>
