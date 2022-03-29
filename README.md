@@ -35,3 +35,4 @@ This Repository contains my solutions to March LeetCoding Challenge 2022 problem
 26. <a href="./704.Binary-Search.cpp">Binary Search</a>
 27. <a href="./1337.The-K-Weakest-Rows-in-a-Matrix.cpp">The K Weakest Rows in a Matrix</a>
 28. <a href="./81.Search-in-Rotated-Sorted-Array-II.cpp">Search in Rotated Sorted Array II</a>
+29. <a href="./287.Find-the-Duplicate-Number.cpp">Find the Duplicate Number</a>
